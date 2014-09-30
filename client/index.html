@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <link rel="stylesheet" type="text/css" href="/styles/styles.css">
+
+  </head>
+  <body>
+    <ul id="messages"></ul>
+    <form action="">
+      <input id="m" autocomplete="off" /><button>Send</button>
+    </form>
+  <script src="https://cdn.socket.io/socket.io-1.1.0.js"></script>
+  <script>
+    var socket = io();
+  </script>
+  </body>
+</html>

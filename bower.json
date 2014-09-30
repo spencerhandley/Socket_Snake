@@ -1,0 +1,29 @@
+{
+  "name": "snake",
+  "version": "0.0.0",
+  "authors": [
+    "Hack Reactor Students <accounts@hackreactor.com>"
+  ],
+  "description": "fun game",
+  "main": "\"/client/index.html\"",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "dude",
+    "stuff"
+  ],
+  "license": "MIT",
+  "homepage": "purple.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.1"
+  }
+}

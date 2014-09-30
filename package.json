@@ -1,0 +1,19 @@
+{
+  "name": "Socket_Snake",
+  "version": "0.0.0",
+  "description": "Snake",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "guac"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.5",
+    "socket.io": "^1.1.0",
+    "underscore": "^1.7.0"
+  }
+}
